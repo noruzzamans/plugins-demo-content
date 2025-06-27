@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-06-22 02:29" -->
+	<!-- generator="WordPress/6.8.1" created="2025-06-27 13:53" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>GSlider Blocks Demo</title>
-	<link>https://playground.wordpress.net/scope:energetic-modern-river</link>
+	<link>https://playground.wordpress.net/scope:excited-old-town</link>
 	<description>A demo setup for GSlider Blocks</description>
-	<pubDate>Sun, 22 Jun 2025 02:29:19 +0000</pubDate>
+	<pubDate>Fri, 27 Jun 2025 13:53:53 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://playground.wordpress.net/scope:energetic-modern-river</wp:base_site_url>
-	<wp:base_blog_url>https://playground.wordpress.net/scope:energetic-modern-river</wp:base_blog_url>
+	<wp:base_site_url>https://playground.wordpress.net/scope:excited-old-town</wp:base_site_url>
+	<wp:base_blog_url>https://playground.wordpress.net/scope:excited-old-town</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -41,191 +41,21 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 		<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://playground.wordpress.net/scope:energetic-modern-river/?page_id=2</link>
-		<pubDate>Wed, 30 Apr 2025 17:27:37 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://127.0.0.1:9400/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-30 17:27:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-30 17:27:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-06-22 02:28:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-06-22 02:28:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1750559329]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://playground.wordpress.net/scope:energetic-modern-river/?page_id=3</link>
-		<pubDate>Wed, 30 Apr 2025 17:27:37 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">Who we are</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://127.0.0.1:9400.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Comments</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Media</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Cookies</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Embedded content from other websites</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Who we share your data with</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">How long we retain your data</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">What rights you have over your data</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Where your data is sent</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
-<!-- /wp:paragraph -->
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-30 17:27:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-30 17:27:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-06-22 02:28:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-06-22 02:28:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1750559329]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Demo Slider]]></title>
-		<link>https://playground.wordpress.net/scope:energetic-modern-river/4-2/</link>
+		<link>https://playground.wordpress.net/scope:excited-old-town/4-2/</link>
 		<pubDate>Sun, 22 Jun 2025 02:25:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:energetic-modern-river/?page_id=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:gslider-blocks/base {"blockId":"gslider-c4096c0e","blockStyle":".gslider-c4096c0e .swiper-wrapper { align-items: center; } .gslider-c4096c0e.gslider-base-wrapper { border: none; box-sizing: border-box; position: relative; } .gslider-c4096c0e.gslider-base-wrapper:hover { } .gslider-c4096c0e.gslider-base-wrapper .gslider-content-wrapper { height: clamp(300px, 60vh, 500px); } .gslider-c4096c0e.gslider-base-wrapper .gslider-content-wrapper .gslider-content-inner-wrapper { } .gslider-c4096c0e.gslider-base-wrapper .gslider-subtitle-wrapper .gslider-subtitle { margin: 0px 0px 16px 0px; transition: all .3s ease-in-out; } .gslider-c4096c0e.gslider-base-wrapper .gslider-subtitle-wrapper .gslider-subtitle:hover { } .gslider-c4096c0e.gslider-base-wrapper .gslider-title-wrapper .gslider-title { margin: 0px 0px 16px 0px; transition: all .3s ease-in-out; } .gslider-c4096c0e.gslider-base-wrapper .gslider-title-wrapper .gslider-title:hover { } .gslider-c4096c0e.gslider-base-wrapper .gslider-description-wrapper .gslider-description { margin: 0px 0px 16px 0px; transition: all .3s ease-in-out; } .gslider-c4096c0e.gslider-base-wrapper .gslider-description-wrapper .gslider-description:hover { } .gslider-c4096c0e.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.primary-btn { font-size: 16px; text-decoration: none; background: #d2d2d2c7; border: none; border-radius: 4px 4px 4px 4px; padding: 12px 24px 12px 24px; display: inline-block; transition: all .3s ease-in-out; } .gslider-c4096c0e.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.primary-btn:hover { background: #787878b8; } .gslider-c4096c0e.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.secondary-btn { font-size: 16px; text-decoration: none; background: #d2d2d2c7; border: none; border-radius: 4px 4px 4px 4px; margin: 12px 0px 0px 12px; padding: 12px 24px 12px 24px; display: inline-block; transition: all .3s ease-in-out; } .gslider-c4096c0e.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.secondary-btn:hover { background: #787878b8; } .gslider-c4096c0e .swiper-button-prev, .gslider-c4096c0e .swiper-button-next { color: #333333; background: #d2d2d2c7; border: none; border-radius: 50px 50px 50px 50px; width: 46px; height: 46px; top: 50%; transition: all .3s ease-in-out; } .gslider-c4096c0e .swiper-button-prev:hover, .gslider-c4096c0e .swiper-button-next:hover { background: #787878b8; } .gslider-c4096c0e .swiper-button-prev:after, .gslider-c4096c0e .swiper-button-next:after { font-size: 16px; } .gslider-c4096c0e .swiper-button-prev { } .gslider-c4096c0e .swiper-button-next { } .gslider-c4096c0e .swiper-pagination { } .gslider-c4096c0e .swiper-pagination-bullet { background-color: #333333; border: none; border-radius: 50px 50px 50px 50px; width: 8px; height: 8px; } .gslider-c4096c0e .swiper-pagination-bullet-active { border: none; } .gslider-c4096c0e .swiper-pagination-fraction { transition: all .3s ease-in-out; } .gslider-c4096c0e .swiper-pagination-fraction:hover { } .gslider-c4096c0e .swiper-pagination-progressbar { } .gslider-c4096c0e .swiper-pagination-progressbar .swiper-pagination-progressbar-fill { } @media only screen and (max-width: 1024px) { .gslider-c4096c0e.gslider-base-wrapper { } .gslider-c4096c0e.gslider-base-wrapper:hover { } .gslider-c4096c0e.gslider-base-wrapper .gslider-content-wrapper { height: clamp(300px, 60vh, 500px); } .gslider-c4096c0e.gslider-base-wrapper .gslider-content-wrapper .gslider-content-inner-wrapper { } .gslider-c4096c0e.gslider-base-wrapper .gslider-subtitle-wrapper .gslider-subtitle { margin: 0px 0px 16px 0px; } .gslider-c4096c0e.gslider-base-wrapper .gslider-title-wrapper .gslider-title { margin: 0px 0px 16px 0px; } .gslider-c4096c0e.gslider-base-wrapper .gslider-description-wrapper .gslider-description { margin: 0px 0px 16px 0px; } .gslider-c4096c0e.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.primary-btn { font-size: 16px; border-radius: 4px 4px 4px 4px; padding: 12px 24px 12px 24px; } .gslider-c4096c0e.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.secondary-btn { font-size: 16px; border-radius: 4px 4px 4px 4px; margin: 12px 0px 0px 12px; padding: 12px 24px 12px 24px; } .gslider-c4096c0e .swiper-button-prev, .gslider-c4096c0e .swiper-button-next { border-radius: 50px 50px 50px 50px; width: 46px; height: 46px; top: 50%; } .gslider-c4096c0e .swiper-button-prev:after, .gslider-c4096c0e .swiper-button-next:after { font-size: 16px; } .gslider-c4096c0e .swiper-button-prev { } .gslider-c4096c0e .swiper-button-next { } .gslider-c4096c0e .swiper-pagination { } .gslider-c4096c0e .swiper-pagination-bullet { border-radius: 50px 50px 50px 50px; width: 8px; height: 8px; } .gslider-c4096c0e .swiper-pagination-bullet-active { } .gslider-c4096c0e .swiper-pagination-fraction { } .gslider-c4096c0e .swiper-pagination-progressbar { } } @media only screen and (max-width: 767px) { .gslider-c4096c0e.gslider-base-wrapper { } .gslider-c4096c0e.gslider-base-wrapper:hover { } .gslider-c4096c0e.gslider-base-wrapper .gslider-content-wrapper { height: clamp(300px, 60vh, 500px); } .gslider-c4096c0e.gslider-base-wrapper .gslider-content-wrapper .gslider-content-inner-wrapper { } .gslider-c4096c0e.gslider-base-wrapper .gslider-subtitle-wrapper .gslider-subtitle { margin: 0px 0px 16px 0px; } .gslider-c4096c0e.gslider-base-wrapper .gslider-title-wrapper .gslider-title { margin: 0px 0px 16px 0px; } .gslider-c4096c0e.gslider-base-wrapper .gslider-description-wrapper .gslider-description { margin: 0px 0px 16px 0px; } .gslider-c4096c0e.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.primary-btn { font-size: 14px; border-radius: 4px 4px 4px 4px; padding: 8px 16px 8px 16px; } .gslider-c4096c0e.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.secondary-btn { font-size: 14px; border-radius: 4px 4px 4px 4px; margin: 12px 0px 0px 0px; padding: 8px 16px 8px 16px; } .gslider-c4096c0e .swiper-button-prev, .gslider-c4096c0e .swiper-button-next { border-radius: 50px 50px 50px 50px; width: 32px; height: 32px; top: 50%; } .gslider-c4096c0e .swiper-button-prev:after, .gslider-c4096c0e .swiper-button-next:after { font-size: 14px; } .gslider-c4096c0e .swiper-button-prev { } .gslider-c4096c0e .swiper-button-next { } .gslider-c4096c0e .swiper-pagination { } .gslider-c4096c0e .swiper-pagination-bullet { border-radius: 50px 50px 50px 50px; width: 8px; height: 8px; } .gslider-c4096c0e .swiper-pagination-bullet-active { } .gslider-c4096c0e .swiper-pagination-fraction { } .gslider-c4096c0e .swiper-pagination-progressbar { } } .gslider-c4096c0e .gslider-content-wrapper.item-1 { background: #EDEDED; transition: all .3s ease-in-out; } @media only screen and (max-width: 1024px) { .gslider-c4096c0e .gslider-content-wrapper.item-1 { background: #EDEDED; } } @media only screen and (max-width: 767px) { .gslider-c4096c0e .gslider-content-wrapper.item-1 { background: #EDEDED; } }.gslider-c4096c0e .gslider-content-wrapper.item-2 { background: #EDEDED; transition: all .3s ease-in-out; } @media only screen and (max-width: 1024px) { .gslider-c4096c0e .gslider-content-wrapper.item-2 { background: #EDEDED; } } @media only screen and (max-width: 767px) { .gslider-c4096c0e .gslider-content-wrapper.item-2 { background: #EDEDED; } }.gslider-c4096c0e .gslider-content-wrapper.item-3 { background: #EDEDED; transition: all .3s ease-in-out; } @media only screen and (max-width: 1024px) { .gslider-c4096c0e .gslider-content-wrapper.item-3 { background: #EDEDED; } } @media only screen and (max-width: 767px) { .gslider-c4096c0e .gslider-content-wrapper.item-3 { background: #EDEDED; } }","subtitleDesktopMarginCssStyle":"0px 0px 16px 0px","subtitleTabletMarginCssStyle":"0px 0px 16px 0px","subtitleMobileMarginCssStyle":"0px 0px 16px 0px","titleDesktopMarginCssStyle":"0px 0px 16px 0px","titleTabletMarginCssStyle":"0px 0px 16px 0px","titleMobileMarginCssStyle":"0px 0px 16px 0px","descriptionDesktopMarginCssStyle":"0px 0px 16px 0px","descriptionTabletMarginCssStyle":"0px 0px 16px 0px","descriptionMobileMarginCssStyle":"0px 0px 16px 0px","primaryButtonDesktopBorderRadiusCssStyle":"4px 4px 4px 4px","primaryButtonTabletBorderRadiusCssStyle":"4px 4px 4px 4px","primaryButtonMobileBorderRadiusCssStyle":"4px 4px 4px 4px","primaryButtonDesktopPaddingCssStyle":"12px 24px 12px 24px","primaryButtonTabletPaddingCssStyle":"12px 24px 12px 24px","primaryButtonMobilePaddingCssStyle":"8px 16px 8px 16px","secondaryButtonDesktopBorderRadiusCssStyle":"4px 4px 4px 4px","secondaryButtonTabletBorderRadiusCssStyle":"4px 4px 4px 4px","secondaryButtonMobileBorderRadiusCssStyle":"4px 4px 4px 4px","secondaryButtonDesktopMarginCssStyle":"12px 0px 0px 12px","secondaryButtonTabletMarginCssStyle":"12px 0px 0px 12px","secondaryButtonMobileMarginCssStyle":"12px 0px 0px 0px","secondaryButtonDesktopPaddingCssStyle":"12px 24px 12px 24px","secondaryButtonTabletPaddingCssStyle":"12px 24px 12px 24px","secondaryButtonMobilePaddingCssStyle":"8px 16px 8px 16px","navigationArrowDesktopBorderRadiusCssStyle":"50px 50px 50px 50px","navigationArrowTabletBorderRadiusCssStyle":"50px 50px 50px 50px","navigationArrowMobileBorderRadiusCssStyle":"50px 50px 50px 50px","paginationNormalDotsDesktopBorderRadiusCssStyle":"50px 50px 50px 50px","paginationNormalDotsTabletBorderRadiusCssStyle":"50px 50px 50px 50px","paginationNormalDotsMobileBorderRadiusCssStyle":"50px 50px 50px 50px"} -->
-<div class="wp-block-gslider-blocks-base gslider-base-wrapper gslider-c4096c0e" data-swiper-settings="{&quot;effect&quot;:&quot;slide&quot;,&quot;breakpoints&quot;:{&quot;0&quot;:{&quot;speed&quot;:800,&quot;autoplay&quot;:false},&quot;768&quot;:{&quot;speed&quot;:800,&quot;autoplay&quot;:false},&quot;1025&quot;:{&quot;speed&quot;:800,&quot;autoplay&quot;:false}},&quot;loop&quot;:true,&quot;autoplay&quot;:false,&quot;allowTouchMove&quot;:true,&quot;mousewheel&quot;:false,&quot;navigation&quot;:{&quot;nextEl&quot;:&quot;.swiper-button-next&quot;,&quot;prevEl&quot;:&quot;.swiper-button-prev&quot;},&quot;pagination&quot;:{&quot;el&quot;:&quot;.swiper-pagination&quot;,&quot;type&quot;:&quot;bullets&quot;,&quot;dynamicBullets&quot;:false,&quot;clickable&quot;:true}}"><div class="swiper"><div class="swiper-wrapper gslider-wrapper"><div class="swiper-slide slide-mode"><div class="gslider-content-wrapper item-1 "><div class="gslider-content-inner-wrapper"><div class="gslider-list-item"><div class="gslider-list-content"><div class="gslider-subtitle-wrapper"><h3 class="gslider-subtitle">Sub Title</h3></div><div class="gslider-title-wrapper"><h2 class="gslider-title">Slider Item 1</h2></div><div class="gslider-description-wrapper"><p class="gslider-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum.</p></div><div class="gslider-btn-wrapper"><div class="gslider-btn-inner-wrapper"><a class="gslider-btn primary-btn" href="#" target="_blank" rel="noopener noreferrer">Get Started</a></div></div></div></div></div></div></div><div class="swiper-slide slide-mode"><div class="gslider-content-wrapper item-2 "><div class="gslider-content-inner-wrapper"><div class="gslider-list-item"><div class="gslider-list-content"><div class="gslider-subtitle-wrapper"><h3 class="gslider-subtitle">Sub Title</h3></div><div class="gslider-title-wrapper"><h2 class="gslider-title">Slider Item 2</h2></div><div class="gslider-description-wrapper"><p class="gslider-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum.</p></div><div class="gslider-btn-wrapper"><div class="gslider-btn-inner-wrapper"><a class="gslider-btn primary-btn" href="#" target="_blank" rel="noopener noreferrer">Get Started</a></div></div></div></div></div></div></div><div class="swiper-slide slide-mode"><div class="gslider-content-wrapper item-3 "><div class="gslider-content-inner-wrapper"><div class="gslider-list-item"><div class="gslider-list-content"><div class="gslider-subtitle-wrapper"><h3 class="gslider-subtitle">Sub Title</h3></div><div class="gslider-title-wrapper"><h2 class="gslider-title">Slider Item 3</h2></div><div class="gslider-description-wrapper"><p class="gslider-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum.</p></div><div class="gslider-btn-wrapper"><div class="gslider-btn-inner-wrapper"><a class="gslider-btn primary-btn" href="#" target="_blank" rel="noopener noreferrer">Get Started</a></div></div></div></div></div></div></div></div><div class="guten-slider swiper-button-next" aria-label="Next slide"></div><div class="guten-slider swiper-button-prev" aria-label="Previous slide"></div><div class="guten-slider swiper-pagination"></div></div></div>
+		<content:encoded><![CDATA[<!-- wp:gslider-blocks/base {"blockId":"gslider-78e8f288","blockStyle":".gslider-78e8f288 .swiper-wrapper { align-items: center; } .gslider-78e8f288.gslider-base-wrapper { border: none; box-sizing: border-box; position: relative; } .gslider-78e8f288.gslider-base-wrapper:hover { } .gslider-78e8f288.gslider-base-wrapper .gslider-content-wrapper { height: clamp(300px, 60vh, 500px); } .gslider-78e8f288.gslider-base-wrapper .gslider-content-wrapper .gslider-content-inner-wrapper { } .gslider-78e8f288.gslider-base-wrapper .gslider-subtitle-wrapper .gslider-subtitle { margin: 0px 0px 16px 0px; transition: all .3s ease-in-out; } .gslider-78e8f288.gslider-base-wrapper .gslider-subtitle-wrapper .gslider-subtitle:hover { } .gslider-78e8f288.gslider-base-wrapper .gslider-title-wrapper .gslider-title { margin: 0px 0px 16px 0px; transition: all .3s ease-in-out; } .gslider-78e8f288.gslider-base-wrapper .gslider-title-wrapper .gslider-title:hover { } .gslider-78e8f288.gslider-base-wrapper .gslider-description-wrapper .gslider-description { margin: 0px 0px 16px 0px; transition: all .3s ease-in-out; } .gslider-78e8f288.gslider-base-wrapper .gslider-description-wrapper .gslider-description:hover { } .gslider-78e8f288.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.primary-btn { font-size: 16px; text-decoration: none; background: #d2d2d2c7; border: none; border-radius: 4px 4px 4px 4px; padding: 12px 24px 12px 24px; display: inline-block; transition: all .3s ease-in-out; } .gslider-78e8f288.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.primary-btn:hover { background: #787878b8; } .gslider-78e8f288.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.secondary-btn { font-size: 16px; text-decoration: none; background: #d2d2d2c7; border: none; border-radius: 4px 4px 4px 4px; margin: 12px 0px 0px 12px; padding: 12px 24px 12px 24px; display: inline-block; transition: all .3s ease-in-out; } .gslider-78e8f288.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.secondary-btn:hover { background: #787878b8; } .gslider-78e8f288.gslider-base-wrapper.outside { padding: 0 60px; } .gslider-78e8f288 .swiper-button-prev, .gslider-78e8f288 .swiper-button-next { color: #333333; background: #d2d2d2c7; border: none; border-radius: 50px 50px 50px 50px; width: 46px; height: 46px; transition: all .3s ease-in-out; } .gslider-78e8f288 .swiper-button-prev:hover, .gslider-78e8f288 .swiper-button-next:hover { background: #787878b8; } .gslider-78e8f288 .swiper-button-prev:after, .gslider-78e8f288 .swiper-button-next:after { font-size: 16px; } .gslider-78e8f288 .swiper-pagination { } .gslider-78e8f288 .swiper-pagination-bullet { background-color: #333333; border: none; border-radius: 50px 50px 50px 50px; width: 8px; height: 8px; } .gslider-78e8f288 .swiper-pagination-bullet-active { border: none; } .gslider-78e8f288 .swiper-pagination-fraction { transition: all .3s ease-in-out; } .gslider-78e8f288 .swiper-pagination-fraction:hover { } .gslider-78e8f288 .swiper-pagination-progressbar { } .gslider-78e8f288 .swiper-pagination-progressbar .swiper-pagination-progressbar-fill { } @media only screen and (max-width: 1024px) { .gslider-78e8f288.gslider-base-wrapper { } .gslider-78e8f288.gslider-base-wrapper:hover { } .gslider-78e8f288.gslider-base-wrapper .gslider-content-wrapper { height: clamp(300px, 60vh, 500px); } .gslider-78e8f288.gslider-base-wrapper .gslider-content-wrapper .gslider-content-inner-wrapper { } .gslider-78e8f288.gslider-base-wrapper .gslider-subtitle-wrapper .gslider-subtitle { margin: 0px 0px 16px 0px; } .gslider-78e8f288.gslider-base-wrapper .gslider-title-wrapper .gslider-title { margin: 0px 0px 16px 0px; } .gslider-78e8f288.gslider-base-wrapper .gslider-description-wrapper .gslider-description { margin: 0px 0px 16px 0px; } .gslider-78e8f288.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.primary-btn { font-size: 16px; border-radius: 4px 4px 4px 4px; padding: 12px 24px 12px 24px; } .gslider-78e8f288.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.secondary-btn { font-size: 16px; border-radius: 4px 4px 4px 4px; margin: 12px 0px 0px 12px; padding: 12px 24px 12px 24px; } .gslider-78e8f288.gslider-base-wrapper.outside { padding: 0 60px; } .gslider-78e8f288 .swiper-button-prev, .gslider-78e8f288 .swiper-button-next { border-radius: 50px 50px 50px 50px; width: 46px; height: 46px; } .gslider-78e8f288 .swiper-button-prev:after, .gslider-78e8f288 .swiper-button-next:after { font-size: 16px; } .gslider-78e8f288 .swiper-pagination { } .gslider-78e8f288 .swiper-pagination-bullet { border-radius: 50px 50px 50px 50px; width: 8px; height: 8px; } .gslider-78e8f288 .swiper-pagination-bullet-active { } .gslider-78e8f288 .swiper-pagination-fraction { } .gslider-78e8f288 .swiper-pagination-progressbar { } } @media only screen and (max-width: 767px) { .gslider-78e8f288.gslider-base-wrapper { } .gslider-78e8f288.gslider-base-wrapper:hover { } .gslider-78e8f288.gslider-base-wrapper .gslider-content-wrapper { height: clamp(300px, 60vh, 500px); } .gslider-78e8f288.gslider-base-wrapper .gslider-content-wrapper .gslider-content-inner-wrapper { } .gslider-78e8f288.gslider-base-wrapper .gslider-subtitle-wrapper .gslider-subtitle { margin: 0px 0px 16px 0px; } .gslider-78e8f288.gslider-base-wrapper .gslider-title-wrapper .gslider-title { margin: 0px 0px 16px 0px; } .gslider-78e8f288.gslider-base-wrapper .gslider-description-wrapper .gslider-description { margin: 0px 0px 16px 0px; } .gslider-78e8f288.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.primary-btn { font-size: 14px; border-radius: 4px 4px 4px 4px; padding: 8px 16px 8px 16px; } .gslider-78e8f288.gslider-base-wrapper .gslider-btn-wrapper .gslider-btn-inner-wrapper .gslider-btn.secondary-btn { font-size: 14px; border-radius: 4px 4px 4px 4px; margin: 12px 0px 0px 0px; padding: 8px 16px 8px 16px; } .gslider-78e8f288.gslider-base-wrapper.outside { padding: 0 45px; } .gslider-78e8f288 .swiper-button-prev, .gslider-78e8f288 .swiper-button-next { border-radius: 50px 50px 50px 50px; width: 32px; height: 32px; } .gslider-78e8f288 .swiper-button-prev:after, .gslider-78e8f288 .swiper-button-next:after { font-size: 14px; } .gslider-78e8f288 .swiper-pagination { } .gslider-78e8f288 .swiper-pagination-bullet { border-radius: 50px 50px 50px 50px; width: 8px; height: 8px; } .gslider-78e8f288 .swiper-pagination-bullet-active { } .gslider-78e8f288 .swiper-pagination-fraction { } .gslider-78e8f288 .swiper-pagination-progressbar { } } .gslider-78e8f288 .gslider-content-wrapper.item-1 { background: #EDEDED; transition: all .3s ease-in-out; } @media only screen and (max-width: 1024px) { .gslider-78e8f288 .gslider-content-wrapper.item-1 { background: #EDEDED; } } @media only screen and (max-width: 767px) { .gslider-78e8f288 .gslider-content-wrapper.item-1 { background: #EDEDED; } }.gslider-78e8f288 .gslider-content-wrapper.item-2 { background: #EDEDED; transition: all .3s ease-in-out; } @media only screen and (max-width: 1024px) { .gslider-78e8f288 .gslider-content-wrapper.item-2 { background: #EDEDED; } } @media only screen and (max-width: 767px) { .gslider-78e8f288 .gslider-content-wrapper.item-2 { background: #EDEDED; } }.gslider-78e8f288 .gslider-content-wrapper.item-3 { background: #EDEDED; transition: all .3s ease-in-out; } @media only screen and (max-width: 1024px) { .gslider-78e8f288 .gslider-content-wrapper.item-3 { background: #EDEDED; } } @media only screen and (max-width: 767px) { .gslider-78e8f288 .gslider-content-wrapper.item-3 { background: #EDEDED; } }","subtitleDesktopMarginCssStyle":"0px 0px 16px 0px","subtitleTabletMarginCssStyle":"0px 0px 16px 0px","subtitleMobileMarginCssStyle":"0px 0px 16px 0px","titleDesktopMarginCssStyle":"0px 0px 16px 0px","titleTabletMarginCssStyle":"0px 0px 16px 0px","titleMobileMarginCssStyle":"0px 0px 16px 0px","descriptionDesktopMarginCssStyle":"0px 0px 16px 0px","descriptionTabletMarginCssStyle":"0px 0px 16px 0px","descriptionMobileMarginCssStyle":"0px 0px 16px 0px","primaryButtonDesktopBorderRadiusCssStyle":"4px 4px 4px 4px","primaryButtonTabletBorderRadiusCssStyle":"4px 4px 4px 4px","primaryButtonMobileBorderRadiusCssStyle":"4px 4px 4px 4px","primaryButtonDesktopPaddingCssStyle":"12px 24px 12px 24px","primaryButtonTabletPaddingCssStyle":"12px 24px 12px 24px","primaryButtonMobilePaddingCssStyle":"8px 16px 8px 16px","secondaryButtonDesktopBorderRadiusCssStyle":"4px 4px 4px 4px","secondaryButtonTabletBorderRadiusCssStyle":"4px 4px 4px 4px","secondaryButtonMobileBorderRadiusCssStyle":"4px 4px 4px 4px","secondaryButtonDesktopMarginCssStyle":"12px 0px 0px 12px","secondaryButtonTabletMarginCssStyle":"12px 0px 0px 12px","secondaryButtonMobileMarginCssStyle":"12px 0px 0px 0px","secondaryButtonDesktopPaddingCssStyle":"12px 24px 12px 24px","secondaryButtonTabletPaddingCssStyle":"12px 24px 12px 24px","secondaryButtonMobilePaddingCssStyle":"8px 16px 8px 16px","navigationArrowDesktopBorderRadiusCssStyle":"50px 50px 50px 50px","navigationArrowTabletBorderRadiusCssStyle":"50px 50px 50px 50px","navigationArrowMobileBorderRadiusCssStyle":"50px 50px 50px 50px","paginationNormalDotsDesktopBorderRadiusCssStyle":"50px 50px 50px 50px","paginationNormalDotsTabletBorderRadiusCssStyle":"50px 50px 50px 50px","paginationNormalDotsMobileBorderRadiusCssStyle":"50px 50px 50px 50px"} -->
+<div class="wp-block-gslider-blocks-base gslider-base-wrapper gslider-78e8f288 inside center" data-swiper-settings="{&quot;effect&quot;:&quot;slide&quot;,&quot;breakpoints&quot;:{&quot;0&quot;:{&quot;speed&quot;:800,&quot;autoplay&quot;:false},&quot;768&quot;:{&quot;speed&quot;:800,&quot;autoplay&quot;:false},&quot;1025&quot;:{&quot;speed&quot;:800,&quot;autoplay&quot;:false}},&quot;loop&quot;:true,&quot;autoplay&quot;:false,&quot;allowTouchMove&quot;:true,&quot;mousewheel&quot;:false,&quot;navigation&quot;:{&quot;nextEl&quot;:&quot;.swiper-button-next&quot;,&quot;prevEl&quot;:&quot;.swiper-button-prev&quot;},&quot;pagination&quot;:{&quot;el&quot;:&quot;.swiper-pagination&quot;,&quot;type&quot;:&quot;bullets&quot;,&quot;dynamicBullets&quot;:false,&quot;clickable&quot;:true}}"><div class="swiper"><div class="swiper-wrapper gslider-wrapper"><div class="swiper-slide slide-mode"><div class="gslider-content-wrapper item-1 "><div class="gslider-content-inner-wrapper"><div class="gslider-list-item"><div class="gslider-list-content"><div class="gslider-subtitle-wrapper"><h3 class="gslider-subtitle">Sub Title</h3></div><div class="gslider-title-wrapper"><h2 class="gslider-title">Slider Item 1</h2></div><div class="gslider-description-wrapper"><p class="gslider-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum.</p></div><div class="gslider-btn-wrapper"><div class="gslider-btn-inner-wrapper"><a class="gslider-btn primary-btn" href="#" target="_blank" rel="noopener noreferrer">Get Started</a></div></div></div></div></div></div></div><div class="swiper-slide slide-mode"><div class="gslider-content-wrapper item-2 "><div class="gslider-content-inner-wrapper"><div class="gslider-list-item"><div class="gslider-list-content"><div class="gslider-subtitle-wrapper"><h3 class="gslider-subtitle">Sub Title</h3></div><div class="gslider-title-wrapper"><h2 class="gslider-title">Slider Item 2</h2></div><div class="gslider-description-wrapper"><p class="gslider-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum.</p></div><div class="gslider-btn-wrapper"><div class="gslider-btn-inner-wrapper"><a class="gslider-btn primary-btn" href="#" target="_blank" rel="noopener noreferrer">Get Started</a></div></div></div></div></div></div></div><div class="swiper-slide slide-mode"><div class="gslider-content-wrapper item-3 "><div class="gslider-content-inner-wrapper"><div class="gslider-list-item"><div class="gslider-list-content"><div class="gslider-subtitle-wrapper"><h3 class="gslider-subtitle">Sub Title</h3></div><div class="gslider-title-wrapper"><h2 class="gslider-title">Slider Item 3</h2></div><div class="gslider-description-wrapper"><p class="gslider-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum.</p></div><div class="gslider-btn-wrapper"><div class="gslider-btn-inner-wrapper"><a class="gslider-btn primary-btn" href="#" target="_blank" rel="noopener noreferrer">Get Started</a></div></div></div></div></div></div></div></div><div class="gslider-navigation-wrapper inside center"><div class="swiper-button-prev" aria-label="Previous slide"></div><div class="swiper-button-next" aria-label="Next slide"></div></div><div class="gslider-pagination-wrapper"><div class="swiper-pagination"></div></div></div></div>
 <!-- /wp:gslider-blocks/base -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-22 02:25:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-06-22 02:25:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-06-22 02:28:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-06-22 02:28:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-06-27 13:52:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-27 13:52:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[4-2]]></wp:post_name>
@@ -235,7 +65,11 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
